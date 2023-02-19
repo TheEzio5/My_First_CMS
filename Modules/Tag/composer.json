@@ -1,0 +1,25 @@
+{
+    "name": "Roby/tag",
+    "description": "",
+    "type": "laravel-module",
+    "version": "v5.0.0",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Tag\\": ""
+        }
+    }
+}

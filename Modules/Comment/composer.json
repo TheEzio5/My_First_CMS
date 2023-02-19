@@ -1,0 +1,27 @@
+{
+    "name": "Roby/comment-module",
+    "description": "Comment module for Laravel Starter, Roby/laravel-starter. It can be used with any other Models. One to many polymorphic relation.",
+    "type": "laravel-module",
+    "version": "v3.0.0",
+    "authors": [
+        {
+            "name": "",
+            "email": ""
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Comment\\Providers\\CommentServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Comment\\": ""
+        }
+    }
+}

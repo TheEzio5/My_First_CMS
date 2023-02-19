@@ -1,0 +1,13 @@
+{
+    "name": "Roby",
+    "alias": "roby",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Roby\\Providers\\RobyServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
